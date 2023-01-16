@@ -1,0 +1,50 @@
+
+body {
+    background: #cc520c;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+  }
+
+
+  .container {
+    width: 1000px;
+    margin: 30px auto;
+    color:  rgb(223, 16, 16);
+    text-align: center;
+    margin-top: 70rem;
+  }
+
+
+  h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 12rem;
+    text-transform: capitalize;
+    color: rgb(19, 8, 1);
+  }
+
+
+  #seconds,
+  #tens,
+  p {
+    font-size: 8rem;
+    color: rgb(10, 7, 4);
+  }
+  button {
+    width: 600px;
+    height: 200px;
+    background: rgb(223, 16, 16);
+    color: rgb(17, 4, 4);
+    border: 2px solid rgb(10, 6, 6);
+    border-radius: 5px;
+    margin-right: 10px;
+    outline: none;
+    margin: 5rem;
+    font-size: 5rem;
+  }
+  button:hover {
+    background: white;
+    color: #b79709;
+    font-weight: 1200;
+    text-transform: capitalize;
+  }
