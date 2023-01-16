@@ -11,14 +11,14 @@ body {
     margin: 30px auto;
     color:  rgb(223, 16, 16);
     text-align: center;
-    margin-top: 70rem;
+    margin-top: 40rem;
   }
 
 
   h2{
     font-family: 'Times New Roman', Times, serif;
     font-weight: 200;
-    font-size: 12rem;
+    font-size: 10rem;
     text-transform: capitalize;
     color: rgb(19, 8, 1);
   }
